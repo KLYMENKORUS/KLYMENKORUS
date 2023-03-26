@@ -51,3 +51,12 @@
   </div>
 </div>
 
+---
+
+:fire: My Stats :<br>
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KLYMENKORUS&theme=dark&background=000000)<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KLYMENKORUS&layout=compact&theme=vision-friendly-dark)<br>
+
+---
+
+[![codewars](https://www.codewars.com/users/klimenko11/badges/large)](https://www.codewars.com/users/klimenko11)
