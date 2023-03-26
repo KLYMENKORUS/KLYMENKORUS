@@ -51,10 +51,3 @@
   </div>
 </div>
 
----
-
-<div>
-  :fire: My Stats : <br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KLYMENKORUS)](https://github.com/anuraghazra/github-readme-stats)
-  [![codewars](https://www.codewars.com/users/klimenko11/badges/large)](https://www.codewars.com/users/klimenko11) 
-</div>
