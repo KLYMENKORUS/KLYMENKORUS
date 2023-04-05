@@ -23,7 +23,7 @@
 
 <div>
   👨‍💻: About Me : <br>
-  I am a Python Developer <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="40"> from Ukraine.
+  I am a Python Developer <img src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif" width="40">
   
   - :telescope: I'm a Python Developer developing web applications, scraping data and telegram bots.
 
